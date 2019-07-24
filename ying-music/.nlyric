@@ -1,0 +1,79 @@
+{
+  "AlbumCaches": [],
+  "LyricCaches": [
+    {
+      "Id": 187672,
+      "IsAbsoluteMusic": false,
+      "RawVersion": 28,
+      "TranslatedVersion": 0,
+      "CheckSum": "CC538646"
+    },
+    {
+      "Id": 32922246,
+      "IsAbsoluteMusic": false,
+      "RawVersion": 6,
+      "TranslatedVersion": 0,
+      "CheckSum": "E588F151"
+    },
+    {
+      "Id": 441491828,
+      "IsAbsoluteMusic": false,
+      "RawVersion": 3,
+      "TranslatedVersion": 0,
+      "CheckSum": "1255A5EA"
+    },
+    {
+      "Id": 504835560,
+      "IsAbsoluteMusic": false,
+      "RawVersion": 6,
+      "TranslatedVersion": 0,
+      "CheckSum": "66516CD2"
+    },
+    {
+      "Id": 553310243,
+      "IsAbsoluteMusic": false,
+      "RawVersion": 5,
+      "TranslatedVersion": 0,
+      "CheckSum": "5FA6A0A6"
+    }
+  ],
+  "TrackCaches": [
+    {
+      "Name": "烦恼歌",
+      "Artists": [],
+      "AlbumName": null,
+      "FileName": "烦恼歌.mp3",
+      "Id": 187672
+    },
+    {
+      "Name": "后来的我们",
+      "Artists": [],
+      "AlbumName": null,
+      "FileName": "后来的我们.mp3",
+      "Id": 553310243
+    },
+    {
+      "Name": "假装",
+      "Artists": [],
+      "AlbumName": null,
+      "FileName": "假装.mp3",
+      "Id": 504835560
+    },
+    {
+      "Name": "水星记",
+      "Artists": [],
+      "AlbumName": null,
+      "FileName": "水星记.mp3",
+      "Id": 441491828
+    },
+    {
+      "Name": "烟雨行舟",
+      "Artists": [
+        "伦桑"
+      ],
+      "AlbumName": "热门华语268",
+      "FileName": null,
+      "Id": 32922246
+    }
+  ]
+}
